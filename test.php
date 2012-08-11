@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * A simple test script for the Authentication token
+ */
+
 require('AuthenticationToken.php');
 
 $user1 = array (
